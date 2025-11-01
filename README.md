@@ -11,8 +11,8 @@ The rapid growth of the electric vehicle (EV) industry makes analyzing performan
 
 This repository details a project with two primary components:
 
-1.  *Chatbot Development:* A conversational chatbot prototype for EV-related interactions.
-2.  *EV Data Analysis:* The preprocessing, cleaning, and exploration of an electric vehicle dataset to derive actionable insights.
+1.  Chatbot Development:* A conversational chatbot prototype for EV-related interactions.
+2.  EV Data Analysis:* The preprocessing, cleaning, and exploration of an electric vehicle dataset to derive actionable insights.
 
 
 The ultimate goal is to combine conversational AI with data analytics to effectively understand and communicate trends within the EV industry.
