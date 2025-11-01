@@ -34,9 +34,4 @@ The ultimate goal is to combine conversational AI with data analytics to effecti
 
 -----
 
-#### 🚀 How to Run
 
-🧩 *1. Clone this repository*
-
-bash
-git clone
